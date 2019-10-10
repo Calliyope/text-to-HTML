@@ -21,7 +21,7 @@
         font-style:italic;
         }
 
-    .header-background {
+    .headerfooter-background {
         background-image: url("background-image.png");
     }
 
@@ -69,4 +69,5 @@
         border:6px solid;
         color:#57B8FF;
         float:right;
+        box-shadow: 4px 6px 20px grey;
         }
